@@ -8,7 +8,7 @@ function kittenPhase(img) {
 
       function mais() {
         if (posicao == "3") {
-          alert("O gatinho morreu");
+          alert("The kitten hasn't been born yet");
           return;
         }
 
@@ -33,7 +33,7 @@ function kittenPhase(img) {
 
       function menos() {
         if (posicao == "0") {
-          alert("O gatinho ainda não nasceu!");
+          alert("The kitten died! :(");
           return;
         }
         if (posicao == "1") {
