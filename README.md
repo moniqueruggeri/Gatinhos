@@ -15,9 +15,9 @@ Created to practice components, hooks, and API integration.
 - JavaScript (ES6+)
 - HTML5 + CSS3
 
-## 📸 Preview
+## 🌍 **Live Preview**
 
-![Preview of the Gatinhos project](link-to-screenshot-if-you-have-one)
+🔗 [Click here to view the project on Vercel](https://kittenlifecicle.vercel.app/)
 
 ## 📦 How to Run Locally
 
